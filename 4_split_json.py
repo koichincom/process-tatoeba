@@ -34,5 +34,5 @@ def split_json_by_first_letter(input_file, output_folder):
 if __name__ == "__main__":
     # Change these file names/folders as needed
     input_json = "limited.json"
-    output_folder = "final_output"
+    output_folder = "data"
     split_json_by_first_letter(input_json, output_folder)
